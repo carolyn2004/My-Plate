@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "566867845074",
+    "project_id": "my-plate-8238e",
+    "storage_bucket": "my-plate-8238e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566867845074:android:ed95cff7f33c922370f20b",
+        "android_client_info": {
+          "package_name": "com.example.my_plate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "566867845074-q21mslfdlr4661f6mjerq85fkd0d8qce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6Gfn9cnX1gP5Z6ZNl-vL-YhN2vXYTPx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "566867845074-q21mslfdlr4661f6mjerq85fkd0d8qce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
