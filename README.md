@@ -1,6 +1,7 @@
 # My-Plate 🍽️
 - My Plate is a health app aimed to encourage users to be more cautious of their health and calorie intake.
 - My Plate is a flutter application programmed on android studio using Dart.
+- Imgages used in this application are not owned by me.
 
 # Functionalities 🛠️
 - User can sign up for an account. Sign up form has form validation. 
