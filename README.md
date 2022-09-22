@@ -14,5 +14,8 @@
 - On the feedback page, a form with both check box validation and text field validation. Users can type their concerns and issues and submit it. Administrators can view it in the database. 
 - On the notifications page, users can set daily and weekly reminders to be reminded to input their calories. 
 
+# Original UX design created on Adobe XD
+- [https://youtu.be/8DoAnxUMkD4](https://youtu.be/8DoAnxUMkD4)
+
 
 
