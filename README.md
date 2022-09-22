@@ -33,9 +33,10 @@
 # App Drawer
 ![image](https://user-images.githubusercontent.com/100062535/191788163-43d1019e-1120-45f9-9301-7129d905e3c8.png)
 
-# List of calories of foods taken down by user 
-- There is a slidable widget to delete items in list view
+# List of calories of foods taken down by user with slidable widget to delete items in list view
 ![image](https://user-images.githubusercontent.com/100062535/191788523-3d93744e-cee7-4087-bb34-b402164325ad.png)
+![image](https://user-images.githubusercontent.com/100062535/191789869-1c79362f-8de6-459a-97cb-68f0ab71aa61.png)
+
 
 # Enter Date to Retrieve Total Calories Consumed That Day
 ![image](https://user-images.githubusercontent.com/100062535/191788616-40672559-cd27-4ed1-8b7d-476c088ab436.png)
