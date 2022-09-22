@@ -18,6 +18,66 @@
 # Welcome Page
 ![image](https://user-images.githubusercontent.com/100062535/191787347-6c1b0b28-a6f5-405b-9ed2-62c058557244.png)
 
+# Login Page
+![image](https://user-images.githubusercontent.com/100062535/191787635-a5b304c8-ba7a-4b25-a883-efd5a569224f.png)
+
+# Register Page
+![image](https://user-images.githubusercontent.com/100062535/191787806-bf1b916f-59bd-4e14-a5a6-9bebefcc4a0a.png)
+
+# Forget Password
+![image](https://user-images.githubusercontent.com/100062535/191787855-eaea4f86-5aea-418b-99d8-3f1b69dea817.png)
+
+# Home Page with Confetti and Image Carousel
+![image](https://user-images.githubusercontent.com/100062535/191787914-46851a58-6211-4a4c-8a18-290e052e8abc.png)
+
+# App Drawer
+![image](https://user-images.githubusercontent.com/100062535/191788163-43d1019e-1120-45f9-9301-7129d905e3c8.png)
+
+# List of calories of foods taken down by user 
+- There is a slidable widget to delete items in list view
+![image](https://user-images.githubusercontent.com/100062535/191788523-3d93744e-cee7-4087-bb34-b402164325ad.png)
+![image](https://user-images.githubusercontent.com/100062535/191788847-f1a275f6-da3c-452f-83d4-f668ce0543b9.png)
+
+# Enter Date to Retrieve Total Calories Consumed That Day
+![image](https://user-images.githubusercontent.com/100062535/191788616-40672559-cd27-4ed1-8b7d-476c088ab436.png)
+
+# Add a Meal
+![image](https://user-images.githubusercontent.com/100062535/191788681-1893e10f-4bdf-4399-91ed-81f23e4253b5.png)
+
+# Healthy Food Recipes
+![image](https://user-images.githubusercontent.com/100062535/191788719-d782c938-3004-49e5-9504-757fd9320b12.png)
+
+# Favorites
+![image](https://user-images.githubusercontent.com/100062535/191788769-d2e76c04-a150-4e0a-b4f4-391c0aef8f30.png)
+
+# In-App Browser
+![image](https://user-images.githubusercontent.com/100062535/191789029-22adce78-b40b-4e35-bb23-6877fe63435a.png)
+
+# Ability to share links
+![image](https://user-images.githubusercontent.com/100062535/191789278-67e41f9c-d3e5-4733-ad0b-3d94001612dd.png)
+
+# Profile
+![image](https://user-images.githubusercontent.com/100062535/191789345-f09c9d9e-2602-482f-bfce-71710bcaf2ac.png)
+
+# Feedback Form
+![image](https://user-images.githubusercontent.com/100062535/191789378-925dee7d-a255-4676-89e1-a5de6fd03330.png)
+
+# Daily or Weekly Notifications
+![image](https://user-images.githubusercontent.com/100062535/191789534-ba52cbd4-7722-4d5b-90aa-9c3e340ebd99.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Original UX design created on Adobe XD
 - [https://youtu.be/8DoAnxUMkD4](https://youtu.be/8DoAnxUMkD4)
 
