@@ -59,7 +59,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191902045-1d703e94-7600-4822-9d96-5a204f7facc0.png)
 
 # Feedback Form
-![image](https://user-images.githubusercontent.com/100062535/191789378-925dee7d-a255-4676-89e1-a5de6fd03330.png)
+![image](https://user-images.githubusercontent.com/100062535/191902145-f322b2f9-57d5-41ca-bab4-83a6b7807169.png)
 
 # Daily or Weekly Notifications
 ![image](https://user-images.githubusercontent.com/100062535/191789534-ba52cbd4-7722-4d5b-90aa-9c3e340ebd99.png)
