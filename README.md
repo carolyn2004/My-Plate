@@ -16,7 +16,7 @@
 - On the notifications page, users can set daily and weekly reminders to be reminded to input their calories. 
 
 # Welcome Page
-
+![image](https://user-images.githubusercontent.com/100062535/191887223-add0d3bb-2c64-410a-9079-6cc7327963b6.png)
 
 # Login Page
 ![image](https://user-images.githubusercontent.com/100062535/191886259-1eb62fea-2de1-40ae-9c72-815a4e019a23.png)
