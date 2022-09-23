@@ -32,7 +32,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191887422-468fa5de-cd54-43cb-8901-34ca021742ee.png)
 
 # App Drawer
-![image](https://user-images.githubusercontent.com/100062535/191788163-43d1019e-1120-45f9-9301-7129d905e3c8.png)
+![image](https://user-images.githubusercontent.com/100062535/191889080-813f816d-532d-4f5a-a1c6-afcef46ac6f0.png)
 
 # List of calories of foods taken down by user with slidable widget to delete items in list view
 ![image](https://user-images.githubusercontent.com/100062535/191788523-3d93744e-cee7-4087-bb34-b402164325ad.png)
