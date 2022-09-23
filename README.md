@@ -53,7 +53,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191901741-864f24b8-bab2-4a61-946b-d628522de686.png)
 
 # Ability to share links
-![image](https://user-images.githubusercontent.com/100062535/191789278-67e41f9c-d3e5-4733-ad0b-3d94001612dd.png)
+![image](https://user-images.githubusercontent.com/100062535/191901878-756b256a-178c-4c06-ade0-90d5b3b565c5.png)
 
 # Profile
 ![image](https://user-images.githubusercontent.com/100062535/191789345-f09c9d9e-2602-482f-bfce-71710bcaf2ac.png)
