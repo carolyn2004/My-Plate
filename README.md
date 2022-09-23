@@ -25,7 +25,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191886362-2b01ef00-5db1-4e97-9f06-629b6e0df555.png)
 
 # Forget Password
-![image](https://user-images.githubusercontent.com/100062535/191787855-eaea4f86-5aea-418b-99d8-3f1b69dea817.png)
+![image](https://user-images.githubusercontent.com/100062535/191886453-a8b6fe8d-e37f-4507-8f54-4eca03637843.png)
 
 # Home Page with Confetti and Image Carousel
 ![image](https://user-images.githubusercontent.com/100062535/191787914-46851a58-6211-4a4c-8a18-290e052e8abc.png)
