@@ -56,7 +56,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191901878-756b256a-178c-4c06-ade0-90d5b3b565c5.png)
 
 # Profile
-![image](https://user-images.githubusercontent.com/100062535/191789345-f09c9d9e-2602-482f-bfce-71710bcaf2ac.png)
+![image](https://user-images.githubusercontent.com/100062535/191902045-1d703e94-7600-4822-9d96-5a204f7facc0.png)
 
 # Feedback Form
 ![image](https://user-images.githubusercontent.com/100062535/191789378-925dee7d-a255-4676-89e1-a5de6fd03330.png)
