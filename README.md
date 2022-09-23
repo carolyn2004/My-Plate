@@ -22,7 +22,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191886259-1eb62fea-2de1-40ae-9c72-815a4e019a23.png)
 
 # Register Page
-![image](https://user-images.githubusercontent.com/100062535/191787806-bf1b916f-59bd-4e14-a5a6-9bebefcc4a0a.png)
+![image](https://user-images.githubusercontent.com/100062535/191886362-2b01ef00-5db1-4e97-9f06-629b6e0df555.png)
 
 # Forget Password
 ![image](https://user-images.githubusercontent.com/100062535/191787855-eaea4f86-5aea-418b-99d8-3f1b69dea817.png)
