@@ -50,7 +50,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191901617-e60870f7-b45b-4e5c-a406-bd326e4beeda.png)
 
 # In-App Browser
-![image](https://user-images.githubusercontent.com/100062535/191789029-22adce78-b40b-4e35-bb23-6877fe63435a.png)
+![image](https://user-images.githubusercontent.com/100062535/191901741-864f24b8-bab2-4a61-946b-d628522de686.png)
 
 # Ability to share links
 ![image](https://user-images.githubusercontent.com/100062535/191789278-67e41f9c-d3e5-4733-ad0b-3d94001612dd.png)
