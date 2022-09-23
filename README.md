@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191901402-d3af6a6d-b2e8-4730-b2d8-ec16efbc9e88.png)
 
 # Favorites
-![image](https://user-images.githubusercontent.com/100062535/191788769-d2e76c04-a150-4e0a-b4f4-391c0aef8f30.png)
+![image](https://user-images.githubusercontent.com/100062535/191901617-e60870f7-b45b-4e5c-a406-bd326e4beeda.png)
 
 # In-App Browser
 ![image](https://user-images.githubusercontent.com/100062535/191789029-22adce78-b40b-4e35-bb23-6877fe63435a.png)
