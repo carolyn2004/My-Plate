@@ -65,20 +65,7 @@
 # Daily or Weekly Notifications
 ![image](https://user-images.githubusercontent.com/100062535/191789534-ba52cbd4-7722-4d5b-90aa-9c3e340ebd99.png)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Original UX design created on Adobe XD
+# Video Demonstration
 - [https://youtu.be/8DoAnxUMkD4](https://youtu.be/8DoAnxUMkD4)
 
 
