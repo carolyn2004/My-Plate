@@ -36,8 +36,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191889080-813f816d-532d-4f5a-a1c6-afcef46ac6f0.png)
 
 # List of calories of foods taken down by user with slidable widget to delete items in list view
-![image](https://user-images.githubusercontent.com/100062535/191788523-3d93744e-cee7-4087-bb34-b402164325ad.png)
-![image](https://user-images.githubusercontent.com/100062535/191789869-1c79362f-8de6-459a-97cb-68f0ab71aa61.png)
+![image](https://user-images.githubusercontent.com/100062535/191903095-7fa90ade-c90c-48f0-9d39-b7a128f02562.png)
 
 # Enter Date to Retrieve Total Calories Consumed That Day
 ![image](https://user-images.githubusercontent.com/100062535/191889251-169cef98-9f11-46cb-a6ea-af7fa7bf5177.png)
