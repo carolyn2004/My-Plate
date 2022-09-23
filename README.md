@@ -42,7 +42,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191889251-169cef98-9f11-46cb-a6ea-af7fa7bf5177.png)
 
 # Add a Meal
-![image](https://user-images.githubusercontent.com/100062535/191788681-1893e10f-4bdf-4399-91ed-81f23e4253b5.png)
+![image](https://user-images.githubusercontent.com/100062535/191889540-0b65f5f7-974c-45f1-828f-d8596c54cd54.png)
 
 # Healthy Food Recipes
 ![image](https://user-images.githubusercontent.com/100062535/191788719-d782c938-3004-49e5-9504-757fd9320b12.png)
