@@ -63,7 +63,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191902145-f322b2f9-57d5-41ca-bab4-83a6b7807169.png)
 
 # Daily or Weekly Notifications
-![image](https://user-images.githubusercontent.com/100062535/191789534-ba52cbd4-7722-4d5b-90aa-9c3e340ebd99.png)
+![image](https://user-images.githubusercontent.com/100062535/191902346-822cff44-ac54-4bbb-8a31-d238a5a1babd.png)
 
 # Video Demonstration
 - [https://youtu.be/8DoAnxUMkD4](https://youtu.be/8DoAnxUMkD4)
