@@ -44,7 +44,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191889540-0b65f5f7-974c-45f1-828f-d8596c54cd54.png)
 
 # Healthy Food Recipes
-![image](https://user-images.githubusercontent.com/100062535/191788719-d782c938-3004-49e5-9504-757fd9320b12.png)
+![image](https://user-images.githubusercontent.com/100062535/191901402-d3af6a6d-b2e8-4730-b2d8-ec16efbc9e88.png)
 
 # Favorites
 ![image](https://user-images.githubusercontent.com/100062535/191788769-d2e76c04-a150-4e0a-b4f4-391c0aef8f30.png)
