@@ -28,7 +28,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191886453-a8b6fe8d-e37f-4507-8f54-4eca03637843.png)
 
 # Home Page with Confetti and Image Carousel
-![image](https://user-images.githubusercontent.com/100062535/191886943-703b53bb-3746-4706-b51e-9368ad456925.png)
+![image](https://user-images.githubusercontent.com/100062535/191887422-468fa5de-cd54-43cb-8901-34ca021742ee.png)
 
 # App Drawer
 ![image](https://user-images.githubusercontent.com/100062535/191788163-43d1019e-1120-45f9-9301-7129d905e3c8.png)
