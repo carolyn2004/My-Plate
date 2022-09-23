@@ -38,9 +38,8 @@
 ![image](https://user-images.githubusercontent.com/100062535/191788523-3d93744e-cee7-4087-bb34-b402164325ad.png)
 ![image](https://user-images.githubusercontent.com/100062535/191789869-1c79362f-8de6-459a-97cb-68f0ab71aa61.png)
 
-
 # Enter Date to Retrieve Total Calories Consumed That Day
-![image](https://user-images.githubusercontent.com/100062535/191788616-40672559-cd27-4ed1-8b7d-476c088ab436.png)
+![image](https://user-images.githubusercontent.com/100062535/191889251-169cef98-9f11-46cb-a6ea-af7fa7bf5177.png)
 
 # Add a Meal
 ![image](https://user-images.githubusercontent.com/100062535/191788681-1893e10f-4bdf-4399-91ed-81f23e4253b5.png)
