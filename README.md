@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/100062535/191887566-f0024b67-6837-4798-889a-3cb2ffd9f356.png)
 
 # Login Page
-![image](https://user-images.githubusercontent.com/100062535/191886259-1eb62fea-2de1-40ae-9c72-815a4e019a23.png)
+![image](https://user-images.githubusercontent.com/100062535/191887632-23b58435-b191-448c-96e2-a10fb0dc9d51.png)
 
 # Register Page
 ![image](https://user-images.githubusercontent.com/100062535/191886362-2b01ef00-5db1-4e97-9f06-629b6e0df555.png)
